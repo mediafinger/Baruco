@@ -164,7 +164,7 @@ Train and repeat your skills dojo style.
 * @porras - ✓
 * @mlainez - Agile Estimating & Planing
 * @malditogeek - Astor
-* @ - 
+* @paolodona - There is hope (for average programmers) 
 
 ## Sunday
 
