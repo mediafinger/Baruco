@@ -3,15 +3,15 @@
 Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http://www.twitter.com/@mediafinger)
 
 ## Day 1
-1. [Keynote: Back to First Principles](day_1_1)
-2. [Rubymotion for faster Client/Server Development](day_1_2)
-3. [Uniformity ain't all bad: getting Consistent Behavior across your API](day_1_3)
-4. [Deconstructing the Framework](day_1_4)
-5. [Life beyond HTTP](day_1_5)
-6. [Programming Workout](day_1_6)
-7. [Tracing your way through Ruby](day_1_7)
-8. [Why Agile (a short History of Software Engineering, and other Ideas that didn't work)](day_1_8)
-9. [Lightning Talks](day_1_8)
+1. [Keynote: Back to First Principles](https://github.com/mediafinger/Baruco#scott-chacon-chacon)
+2. [Rubymotion for faster Client/Server Development](https://github.com/mediafinger/Baruco#randall-thomas-daksis--tammer-saleh-tsaleh)
+3. [Uniformity ain't all bad: getting Consistent Behavior across your API](https://github.com/mediafinger/Baruco#alex-koppel-arsduo)
+4. [Deconstructing the Framework](https://github.com/mediafinger/Baruco#gary-bernhardt-garybernhardt)
+5. [Life beyond HTTP](https://github.com/mediafinger/Baruco#anthony-eden-aeden)
+6. [Programming Workout](https://github.com/mediafinger/Baruco#micha%C5%82-taszycki-mehowte)
+7. [Tracing your way through Ruby](https://github.com/mediafinger/Baruco#elise-huard-elise_huard)
+8. [Why Agile (a short History of Software Engineering, and other Ideas that didn't work)](https://github.com/mediafinger/Baruco#paolo-perrotta-nusco)
+9. [Lightning Talks](https://github.com/mediafinger/Baruco#lightning-talks)
 
 ## Day 2
 1. [Text](day_2_1)
@@ -27,7 +27,7 @@ Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http
 
 
 ### Scott Chacon [@chacon](http://www.twitter.com/chacon)
-#### KEYNOTE: BACK TO FIRST PRINCIPLES [day_1_1]
+#### KEYNOTE: BACK TO FIRST PRINCIPLES
 [Baruco Page](http://baruco.org/agenda/keynote-back-to-first-principles)
 
 * Disrupt industries with software - and take over the world.
@@ -51,7 +51,7 @@ Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http
 ***
 
 ### Randall Thomas [@daksis](http://www.twitter.com/daksis) & Tammer Saleh [@tsaleh](http://www.twitter.com/tsaleh)
-#### RUBYMOTION FOR FASTER CLIENT/SERVER DEVELOPMENT [day_1_2]
+#### RUBYMOTION FOR FASTER CLIENT/SERVER DEVELOPMENT
 [Baruco Page](http://baruco.org/agenda/rubymotion-for-faster-client-server-development)
 
 * Why use RubyMotion - instead of Objective-C?
@@ -63,7 +63,7 @@ Summary: RubyMotion might be fine for small projects - but risky to use for larg
 ***
 
 ### Alex Koppel [@arsduo](http://www.twitter.com/arsduo)
-#### UNIFORMITY AIN'T ALL BAD: GETTING CONSISTENT BEHAVIOR ACROSS YOUR API [day_1_3]
+#### UNIFORMITY AIN'T ALL BAD: GETTING CONSISTENT BEHAVIOR ACROSS YOUR API
 [Baruco Page](http://baruco.org/agenda/uniformity-ain-t-all-bad-getting-consistent-behavior-across-your-api)
 
 * APIs should work by the 'principle of least surprise'
@@ -84,7 +84,7 @@ Summary: RubyMotion might be fine for small projects - but risky to use for larg
 ***
 
 ### Gary Bernhardt [@garybernhardt](http://www.twitter.com/garybernhardt)
-#### DECONSTRUCTING THE FRAMEWORK [day_1_4]
+#### DECONSTRUCTING THE FRAMEWORK
 [Baruco Page](http://baruco.org/agenda/deconstructing-the-framework)
 
 * 1/5 Test in the small
@@ -100,7 +100,7 @@ Summary: RubyMotion might be fine for small projects - but risky to use for larg
 ***
 
 ### Anthony Eden [@aeden](http://www.twitter.com/aeden)
-#### LIFE BEYOND HTTP [day_1_5]
+#### LIFE BEYOND HTTP
 [Baruco Page](http://baruco.org/agenda/life-beyond-http)
 
 * *Protocols are a set of procedureds to be followed when communicating*
@@ -111,7 +111,7 @@ Summary: RubyMotion might be fine for small projects - but risky to use for larg
 ***
 
 ### Michał Taszycki [@mehowte](http://www.twitter.com/mehowte)
-#### PROGRAMMING WORKOUT [day_1_6]
+#### PROGRAMMING WORKOUT
 [Baruco Page](http://baruco.org/agenda/programming-workout)
 
 Train and repeat your skills dojo style.
@@ -121,7 +121,7 @@ Train and repeat your skills dojo style.
 ***
 
 ### Elise Huard [@elise_huard](http://www.twitter.com/elise_huard)
-#### TRACING YOUR WAY THROUGH RUBY [day_1_7]
+#### TRACING YOUR WAY THROUGH RUBY
 [Baruco Page](http://baruco.org/agenda/tracing-your-way-through-ruby)
 
 *Did not attend - enjoyed the CosmoCaixa Museum*
@@ -129,7 +129,7 @@ Train and repeat your skills dojo style.
 ***
 
 ### Paolo Perrotta [@nusco](http://www.twitter.com/nusco)
-#### WHY AGILE (A SHORT HISTORY OF SOFTWARE ENGINEERING, AND OTHER IDEAS THAT DIDN'T WORK) [day_1_8]
+#### WHY AGILE (A SHORT HISTORY OF SOFTWARE ENGINEERING, AND OTHER IDEAS THAT DIDN'T WORK)
 [Baruco Page](http://baruco.org/agenda/why-agile-a-short-history-of-software-engineering-and-other-ideas-that-didn-t-work)
 
 * Paolo is an agile coach, wrotes Ruby code only at night and keeps it for himself
@@ -152,7 +152,7 @@ Train and repeat your skills dojo style.
 
 ***
 
-### Lightning talks [day_1_8]
+### Lightning talks
 
 * @bryanl - zsh is my rifle
 * @albertoperdomo - Graph databases
@@ -163,7 +163,8 @@ Train and repeat your skills dojo style.
 * @josephwilk - Go (*As soon as a child stops eating the stones, it will beat any grown-up.*)
 * @porras - ✓
 * @mlainez - Agile Estimating & Planing
-* @ - Astor
+* @malditogeek - Astor
+* @ - 
 
 ## Sunday
 
