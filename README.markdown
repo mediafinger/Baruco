@@ -114,7 +114,9 @@ Summary: RubyMotion might be fine for small projects - but risky to use for larg
 #### PROGRAMMING WORKOUT [day_1_6]
 [Baruco Page](http://baruco.org/agenda/programming-workout)
 
-* Did not attend - saw it @ Euruko in Amsterdam *
+Train and repeat your skills in Dojo-Style.
+
+*Did not attend - saw it @ Euruko in Amsterdam*
 
 ***
 
@@ -122,13 +124,31 @@ Summary: RubyMotion might be fine for small projects - but risky to use for larg
 #### TRACING YOUR WAY THROUGH RUBY [day_1_7]
 [Baruco Page](http://baruco.org/agenda/tracing-your-way-through-ruby)
 
-* Did not attend - enjoyed the CosmoCaixa Museum *
+*Did not attend - enjoyed the CosmoCaixa Museum*
 
 ***
 
 ### Paolo Perrotta [@nusco](http://www.twitter.com/nusco)
 #### WHY AGILE (A SHORT HISTORY OF SOFTWARE ENGINEERING, AND OTHER IDEAS THAT DIDN'T WORK) [day_1_8]
 [Baruco Page](http://baruco.org/agenda/why-agile-a-short-history-of-software-engineering-and-other-ideas-that-didn-t-work)
+
+* Paolo is an agile coach, wrotes Ruby code only at night and keeps it for himself
+* His only claim for fame in the ruby community: the book Metaprogramming Ruby (read it, it's great)
+* He does more Ruby than Agile Conferences
+* Only 4 people in the audience were alive in 1968 ;)
+* in 2009 24% of software projects failed (but it's not a crisis, it's the status quo)
+* Three sources of problems:
+    1. Complexity of source code
+        * Solution: eliminate source code, fire all programmers and live happily ever on...
+    2. Human imperfection
+        * Solution: eliminate human errors (with math, so you need no more tests)
+    3. Project variability
+        * Solution: turn software craftmanship into industrial engineering
+* If you can not eliminate the problems, embrace and handle them through
+    1. observation
+    2. hypothesises
+    3. experiments
+* *All good (unique) architecture leaks.*
 
 ***
 
