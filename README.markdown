@@ -3,25 +3,25 @@
 Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http://www.twitter.com/@mediafinger)
 
 ## Day 1
-1. [Keynote: Back to First Principles][day_1_1]
-2. [Rubymotion for faster Client/Server Development][day_1_2]
-3. [Uniformity ain't all bad: getting Consistent Behavior across your API][day_1_3]
-4. [Deconstructing the Framework][day_1_4]
-5. [Life beyond HTTP][day_1_5]
-6. [Programming Workout][day_1_6]
-7. [Tracing your way through Ruby][day_1_7]
+1. [Keynote: Back to First Principles](day_1_1)
+2. [Rubymotion for faster Client/Server Development](day_1_2)
+3. [Uniformity ain't all bad: getting Consistent Behavior across your API](day_1_3)
+4. [Deconstructing the Framework](day_1_4)
+5. [Life beyond HTTP](day_1_5)
+6. [Programming Workout](day_1_6)
+7. [Tracing your way through Ruby](day_1_7)
 8. [Why Agile (a short History of Software Engineering, and other Ideas that didn't work)](day_1_8)
+9. [Lightning Talks](day_1_8)
 
 ## Day 2
-1. [Text][day_2_1]
-2. [Text][day_2_2]
-3. [Text][day_2_3]
-4. [Text][day_2_4]
-5. [Text][day_2_5]
-6. [Text][day_2_6]
-7. [Text][day_2_7]
+1. [Text](day_2_1)
+2. [Text](day_2_2)
+3. [Text](day_2_3)
+4. [Text](day_2_4)
+5. [Text](day_2_5)
+6. [Text](day_2_6)
+7. [Text](day_2_7)
 
-***
 
 ## Saturday
 
@@ -114,7 +114,7 @@ Summary: RubyMotion might be fine for small projects - but risky to use for larg
 #### PROGRAMMING WORKOUT [day_1_6]
 [Baruco Page](http://baruco.org/agenda/programming-workout)
 
-Train and repeat your skills in Dojo-Style.
+Train and repeat your skills dojo style.
 
 *Did not attend - saw it @ Euruko in Amsterdam*
 
@@ -151,6 +151,19 @@ Train and repeat your skills in Dojo-Style.
 * *All good (unique) architecture leaks.*
 
 ***
+
+### Lightning talks [day_1_8]
+
+* @bryanl - zsh is my rifle
+* @albertoperdomo - Graph databases
+* @basiszwo - Cloudlist 
+* @markoa - Benefits of CI 
+* @arcandros - Raiding Software Instances
+* @ryanlecompte - Redis Failover (with ZooKeeper)
+* @josephwilk - Go (*As soon as a child stops eating the stones, it will beat any grown-up.*)
+* @porras - ✓
+* @mlainez - Agile Estimating & Planing
+* @ - Astor
 
 ## Sunday
 
