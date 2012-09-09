@@ -174,7 +174,7 @@ Train and repeat your skills dojo style.
 #### KEYNOTE: THE TOP 10 WAYS TO SCAM THE MODERN AMERICAN PROGRAMMER
 [Baruco Page](http://baruco.org/agenda/keynote-the-top-10-ways-to-scam-the-modern-american-programmer)
 
-* Only a dick online
+* Only a dick online (at least that's what he says)
 * You won't see the Scams, if you're stuck in the 'Community'
 * The 'Manifestos' up to 2100 (Monkeys, Aliens, Robots...)
 * If You Work For Free We Will All Be Rich - Scam
@@ -240,12 +240,17 @@ PROGRAMMING, MOTHERFUCKER!
 * Pub/Sub architecture to refactor large system
     * publish only conclusions, do not send the whole results
     * keep services very small (less than 100 LoC)
+    * loosely coupled
+    * multiple versions acceptable
+    * implement self-monitoring
+    * publish information bits - even if you not have a requirement for them now
 * Examples of different companies and projects
 * Bright Teams can be inexperienced in a specific area and produce problematic code
 * Self monitoring Services replace Unit Tests
 * Business monitoring replaces Acceptance Tests
-* Collect ALL the data - even if you do not know what it will be good for in future
-
+* Publish ALL the data - even if you do not know what it will be good for in future
+* Learning curve for developers
+* Process can feel like Anarchy (multiple deployments a day with minimal risk, thanks to micro-services)
 
 ***
 
@@ -253,14 +258,49 @@ PROGRAMMING, MOTHERFUCKER!
 #### IT'S NOT HOW GOOD YOUR APP IS, IT'S HOW GOOD YOU WANT IT TO BE
 [Baruco Page](http://baruco.org/agenda/it-s-not-how-good-your-app-is-it-s-how-good-you-want-it-to-be)
 
+* explaining the Travis CI architecture
+* Logging
+    * keep it simple, for example if you have many calls: just one line per call
+    * log ALL the things
+    * namespace lines
+    * consolidate logs (maybe into services like graylog2, papertrail ...)
+* Metrics / Monitoring
+    * NewRelic
+    * ActiveSupport::Notification (publish | instrument)
+    * statsd / metriksd
+    * Alters
+    * Visualization (graphite, tasseo, librato)
+    * Admin Page
+
 ***
 
 ### Dirkjan Bussink [@dbussink](http://www.twitter.com/dbussink)
 #### RUBINIUS - TALES FROM THE TRENCHES OF DEVELOPING A RUBY IMPLEMENTATION
 [Baruco Page](http://baruco.org/agenda/rubinius-tales-from-the-trenches-of-developing-a-ruby-implementation)
 
+* advantages of Rubinus' GC
+* look ahead memory overview
+
+*missed large parts, because of an interesting discussion with Mr. Kalderimis and Tammer Saleh*
+
 ***
 
 ### Zach Holman [@holman](http://www.twitter.com/holman)
 #### UNSUCKING YOUR TEAM'S DEVELOPMENT ENVIRONMENT
 [Baruco Page](http://baruco.org/agenda/unsucking-your-team-s-development-environment)
+
+* Duration from first time entering the office to boot all the apps in a work environment should be low.
+* Every new employee should be able to commit to production in first week
+* *Every App should have a one-liner install.* or at least a *Tutorial-Style install*
+* Bootstrap Script to set up ALL the project. Needs to be fast.
+* Replicate-Repo Script to load production data into development environment.
+* CIBuild as Setup for testing environment.
+* Automated Machine Setup - sets up a new Laptop in 20 Minutes (with Puppet).
+* Auto-Reporting Failures
+* Deploy Automatization and Deploy Locks (when deploying Branches before merging them into Master)
+* Company - take out the Bullshit
+    * OAuth everything
+    * Build Helpers for Communication
+    * Write a first-day Guide to the Company
+* *Automate everything: use computers to do things - use humans to drink with!*
+
