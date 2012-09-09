@@ -15,13 +15,13 @@ Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http
 
 ## Day 2
 1. [Keynote: The Top 10 Ways to Scam the Modern American Programmer](https://github.com/mediafinger/Baruco#zed-a-shaw-zedshaw)
-2. [Grand Unification Theory: Writing and running Code](day_2_2)
-3. [Constant Autoloading in Ruby on Rails](day_2_3)
-4. [Message in a Bottle](day_2_4)
-5. [Micro-Service Architecture](day_2_5)
-6. [It's not how good your app is, it's how good you want it to be](day_2_6)
-7. [Rubinius - Tales from the Trenches of Developing a Ruby Implementation](day_2_7)
-8. [Unsucking Your Team's Development Environment](day_2_8)
+2. [Grand Unification Theory: Writing and running Code](https://github.com/mediafinger/Baruco#brian-ford-brixen)
+3. [Constant Autoloading in Ruby on Rails](https://github.com/mediafinger/Baruco#name-fxn)
+4. [Message in a Bottle](https://github.com/mediafinger/Baruco#konstantin-haase-konstantinhaase)
+5. [Micro-Service Architecture](https://github.com/mediafinger/Baruco#fred-george-fgeorge52)
+6. [It's not how good your app is, it's how good you want it to be](https://github.com/mediafinger/Baruco#josh-kalderimis-j2h)
+7. [Rubinius - Tales from the Trenches of Developing a Ruby Implementation](https://github.com/mediafinger/Baruco#dirkjan-bussink-dbussink)
+8. [Unsucking Your Team's Development Environment](https://github.com/mediafinger/Baruco#zach-holman-holman)
 
 
 ## Saturday
@@ -188,7 +188,7 @@ PROGRAMMING, MOTHERFUCKER!
 ***
 
 ### Brian Ford [@brixen](http://www.twitter.com/brixen)
-#### GRAND UNIFICATION THEORY: WRITING AND RUNNING CODE [day_2_2]
+#### GRAND UNIFICATION THEORY: WRITING AND RUNNING CODE
 [Baruco Page](http://baruco.org/agenda/grand-unification-theory-writing-and-running-code)
 
 * In Smalltalk writing code was a function of the running programm
@@ -208,7 +208,7 @@ PROGRAMMING, MOTHERFUCKER!
 ***
 
 ### Name [@fxn](http://www.twitter.com/fxn)
-#### CONSTANT AUTOLOADING IN RUBY ON RAILS [day_2_3]
+#### CONSTANT AUTOLOADING IN RUBY ON RAILS
 [Baruco Page](http://baruco.org/agenda/constant-autoloading-in-ruby-on-rails)
 
 * Explaining how Autoload works in Rails under the hood
@@ -217,7 +217,7 @@ PROGRAMMING, MOTHERFUCKER!
 ***
 
 ### Konstantin Haase [@konstantinhaase](http://www.twitter.com/konstantinhaase)
-#### MESSAGE IN A BOTTLE [day_2_4]
+#### MESSAGE IN A BOTTLE
 [Baruco Page](http://baruco.org/agenda/message-in-a-bottle)
 
 * There are more than 50 different Ruby implementations
@@ -230,23 +230,37 @@ PROGRAMMING, MOTHERFUCKER!
 ***
 
 ### Fred George [@fgeorge52](http://www.twitter.com/fgeorge52)
-#### MICRO-SERVICE ARCHITECTURE [day_2_5]
+#### MICRO-SERVICE ARCHITECTURE
 [Baruco Page](http://baruco.org/agenda/micro-service-architecture)
+
+* A personal journey
+    * (it was painful, so do not repeat)
+* huge project (1M LoC), but barely tests (around 2000) many of them broken, 1000 bugs
+* Technical Debt
+* Pub/Sub architecture to refactor large system
+    * publish only conclusions, do not send the whole results
+    * keep services very small (less than 100 LoC)
+* Examples of different companies and projects
+* Bright Teams can be inexperienced in a specific area and produce problematic code
+* Self monitoring Services replace Unit Tests
+* Business monitoring replaces Acceptance Tests
+* Collect ALL the data - even if you do not know what it will be good for in future
+
 
 ***
 
 ### Josh Kalderimis [@j2h](http://www.twitter.com/j2h)
-#### IT'S NOT HOW GOOD YOUR APP IS, IT'S HOW GOOD YOU WANT IT TO BE [day_2_6]
+#### IT'S NOT HOW GOOD YOUR APP IS, IT'S HOW GOOD YOU WANT IT TO BE
 [Baruco Page](http://baruco.org/agenda/it-s-not-how-good-your-app-is-it-s-how-good-you-want-it-to-be)
 
 ***
 
 ### Dirkjan Bussink [@dbussink](http://www.twitter.com/dbussink)
-#### RUBINIUS - TALES FROM THE TRENCHES OF DEVELOPING A RUBY IMPLEMENTATION [day_2_7]
+#### RUBINIUS - TALES FROM THE TRENCHES OF DEVELOPING A RUBY IMPLEMENTATION
 [Baruco Page](http://baruco.org/agenda/rubinius-tales-from-the-trenches-of-developing-a-ruby-implementation)
 
 ***
 
 ### Zach Holman [@holman](http://www.twitter.com/holman)
-#### UNSUCKING YOUR TEAM'S DEVELOPMENT ENVIRONMENT [day_2_8]
+#### UNSUCKING YOUR TEAM'S DEVELOPMENT ENVIRONMENT
 [Baruco Page](http://baruco.org/agenda/unsucking-your-team-s-development-environment)
