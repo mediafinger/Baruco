@@ -14,13 +14,14 @@ Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http
 9. [Lightning Talks](https://github.com/mediafinger/Baruco#lightning-talks)
 
 ## Day 2
-1. [Text](day_2_1)
-2. [Text](day_2_2)
-3. [Text](day_2_3)
-4. [Text](day_2_4)
-5. [Text](day_2_5)
-6. [Text](day_2_6)
-7. [Text](day_2_7)
+1. [Keynote: The Top 10 Ways to Scam the Modern American Programmer](day_2_1)
+2. [Grand Unification Theory: Writing and running Code](day_2_2)
+3. [Constant Autoloading in Ruby on Rails](day_2_3)
+4. [Message in a Bottle](day_2_4)
+5. [Micro-Service Architecture](day_2_5)
+6. [It's not how good your app is, it's how good you want it to be](day_2_6)
+7. [Rubinius - Tales from the Trenches of Developing a Ruby Implementation](day_2_7)
+8. [Unsucking Your Team's Development Environment](day_2_8)
 
 
 ## Saturday
@@ -169,44 +170,59 @@ Train and repeat your skills dojo style.
 ## Sunday
 
 
-### Name [@twitternick](http://www.twitter.com/@twitternick)
-#### Talk Name [day_2_1]
-[Baruco Page](http://)
+### Zed A. Shaw [@zedshaw](http://www.twitter.com/zedshaw)
+#### KEYNOTE: THE TOP 10 WAYS TO SCAM THE MODERN AMERICAN PROGRAMMER [day_2_1]
+[Baruco Page](http://baruco.org/agenda/keynote-the-top-10-ways-to-scam-the-modern-american-programmer)
+
+* Only a dick online
+* You won't see the Scams, if you're stuck in the 'Community'
+* The 'Manifestos' up to 2100 (Monkeys, Aliens, Robots...)
+* If You Work For Free We Will All Be Rich - Scam
+* Bullying: Gang instead of Team Mentality
+* Abstractions should stay readable and close to the actual solution
+* *Actively destroying communities, is kind of a hobby.*
+* You don't need a process, just be creative and code!
+
+PROGRAMMING, MOTHERFUCKER!
 
 ***
 
-### Brian Ford [@brixen](http://www.twitter.com/@brixen)
+### Brian Ford [@brixen](http://www.twitter.com/brixen)
 #### GRAND UNIFICATION THEORY: WRITING AND RUNNING CODE [day_2_2]
 [Baruco Page](http://baruco.org/agenda/grand-unification-theory-writing-and-running-code)
 
 ***
 
-### Name [@twitternick](http://www.twitter.com/@twitternick)
-#### Talk Name [day_2_3]
-[Baruco Page](http://)
+### Name [@fxn](http://www.twitter.com/fxn)
+#### CONSTANT AUTOLOADING IN RUBY ON RAILS [day_2_3]
+[Baruco Page](http://baruco.org/agenda/constant-autoloading-in-ruby-on-rails)
 
 ***
 
-### Name [@twitternick](http://www.twitter.com/@twitternick)
-#### Talk Name [day_2_4]
-[Baruco Page](http://)
+### Konstantin Haase [@konstantinhaase](http://www.twitter.com/konstantinhaase)
+#### MESSAGE IN A BOTTLE [day_2_4]
+[Baruco Page](http://baruco.org/agenda/message-in-a-bottle)
 
 ***
 
-### Name [@twitternick](http://www.twitter.com/@twitternick)
-#### Talk Name [day_2_5]
-[Baruco Page](http://)
+### Fred George [@fgeorge52](http://www.twitter.com/fgeorge52)
+#### MICRO-SERVICE ARCHITECTURE [day_2_5]
+[Baruco Page](http://baruco.org/agenda/micro-service-architecture)
 
 ***
 
-### Name [@twitternick](http://www.twitter.com/@twitternick)
-#### Talk Name [day_2_6]
-[Baruco Page](http://)
+### Josh Kalderimis [@j2h](http://www.twitter.com/j2h)
+#### IT'S NOT HOW GOOD YOUR APP IS, IT'S HOW GOOD YOU WANT IT TO BE [day_2_6]
+[Baruco Page](http://baruco.org/agenda/it-s-not-how-good-your-app-is-it-s-how-good-you-want-it-to-be)
 
 ***
 
-### Name [@twitternick](http://www.twitter.com/@twitternick)
-#### Talk Name [day_2_7]
-[Baruco Page](http://)
+### Dirkjan Bussink [@dbussink](http://www.twitter.com/dbussink)
+#### RUBINIUS - TALES FROM THE TRENCHES OF DEVELOPING A RUBY IMPLEMENTATION [day_2_7]
+[Baruco Page](http://baruco.org/agenda/rubinius-tales-from-the-trenches-of-developing-a-ruby-implementation)
 
 ***
+
+### Zach Holman [@holman](http://www.twitter.com/holman)
+#### UNSUCKING YOUR TEAM'S DEVELOPMENT ENVIRONMENT [day_2_8]
+[Baruco Page](http://baruco.org/agenda/unsucking-your-team-s-development-environment)
