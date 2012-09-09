@@ -14,7 +14,7 @@ Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http
 9. [Lightning Talks](https://github.com/mediafinger/Baruco#lightning-talks)
 
 ## Day 2
-1. [Keynote: The Top 10 Ways to Scam the Modern American Programmer](day_2_1)
+1. [Keynote: The Top 10 Ways to Scam the Modern American Programmer](https://github.com/mediafinger/Baruco#zed-a-shaw-zedshaw)
 2. [Grand Unification Theory: Writing and running Code](day_2_2)
 3. [Constant Autoloading in Ruby on Rails](day_2_3)
 4. [Message in a Bottle](day_2_4)
@@ -171,7 +171,7 @@ Train and repeat your skills dojo style.
 
 
 ### Zed A. Shaw [@zedshaw](http://www.twitter.com/zedshaw)
-#### KEYNOTE: THE TOP 10 WAYS TO SCAM THE MODERN AMERICAN PROGRAMMER [day_2_1]
+#### KEYNOTE: THE TOP 10 WAYS TO SCAM THE MODERN AMERICAN PROGRAMMER
 [Baruco Page](http://baruco.org/agenda/keynote-the-top-10-ways-to-scam-the-modern-american-programmer)
 
 * Only a dick online
@@ -191,17 +191,41 @@ PROGRAMMING, MOTHERFUCKER!
 #### GRAND UNIFICATION THEORY: WRITING AND RUNNING CODE [day_2_2]
 [Baruco Page](http://baruco.org/agenda/grand-unification-theory-writing-and-running-code)
 
+* In Smalltalk writing code was a function of the running programm
+* The Editors we use did not evolve that far in the last 50 years
+* Don't obey to tools and process, use them thoughtful
+* Communication is most important
+    * clear
+    * simple
+    * relevant
+    * precise
+    * (medium, tone, safe, open)
+* Think of a programming language as the medium for communication
+* Some aspects of dynamic typed languages...
+* Some Rubinus examples...
+* In future versions of Rubinus it should be able to check the compiled program flow
+
 ***
 
 ### Name [@fxn](http://www.twitter.com/fxn)
 #### CONSTANT AUTOLOADING IN RUBY ON RAILS [day_2_3]
 [Baruco Page](http://baruco.org/agenda/constant-autoloading-in-ruby-on-rails)
 
+* Explaining how Autoload works in Rails under the hood
+* loads of code examples
+
 ***
 
 ### Konstantin Haase [@konstantinhaase](http://www.twitter.com/konstantinhaase)
 #### MESSAGE IN A BOTTLE [day_2_4]
 [Baruco Page](http://baruco.org/agenda/message-in-a-bottle)
+
+* There are more than 50 different Ruby implementations
+* Comparing some methods of the three largest:
+    * MRI: method dispatch
+    * Rubinus: inline caches and JIT
+    * JRuby: invokeddynamic
+* in depth byte code explanation
 
 ***
 
